@@ -1,0 +1,23 @@
+ul{
+    font-size: 20px;
+}
+
+.mainbody{
+    background-color: lightcyan;
+}
+
+.fontnormal{
+    font-style: normal;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    color: darkslategray;
+    font-size: 15px;
+}
+
+.graph-container {
+	display: flex;
+	justify-content: center;
+    width: 50%;
+}
